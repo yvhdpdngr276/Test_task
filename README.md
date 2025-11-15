@@ -40,8 +40,7 @@ This repository contains a comprehensive suite of automated tests for the BotsCr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone git@github.com:yvhdpdngr276/Test_task.git
 ```
 
 2. Install dependencies:
@@ -86,20 +85,6 @@ npx playwright test -g "test name"
 npx playwright show-report
 ```
 
-## 📊 Project Structure
-
-```
-.
-├── .github/
-│   └── ISSUE_TEMPLATE/
-│       └── bug_report.md          # Bug report template
-├── tests/
-│   └── testsjs.spec.js            # Main test file
-├── playwright.config.js           # Playwright configuration
-├── package.json                   # Project dependencies
-└── README.md                      # This file
-```
-
 ## 📝 Test Descriptions
 
 ### Navigation Bar Tests
@@ -137,19 +122,9 @@ If you find a bug on the website, use the template in `.github/ISSUE_TEMPLATE/bu
 - [ ] Expand test coverage for website forms
 - [ ] Add CI/CD integration
 
-## Contributing
-
-If you'd like to contribute to this project:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
 ## Authors
 
-Your Name - [yvhdpdngr276]
+yvhdpdngr276
 
 ## Useful Links
 
