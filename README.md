@@ -30,7 +30,7 @@ This repository contains a comprehensive suite of automated tests for the BotsCr
 ### 3. UI Elements
 - Top page banner and its close functionality
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Playwright** - Browser automation framework
 - **JavaScript** - Programming language
@@ -53,7 +53,7 @@ npm install
 npx playwright install
 ```
 
-## 🚀 Running Tests
+##  Running Tests
 
 ### Run all tests
 ```bash
@@ -85,7 +85,7 @@ npx playwright test -g "test name"
 npx playwright show-report
 ```
 
-## 📝 Test Descriptions
+##  Test Descriptions
 
 ### Navigation Bar Tests
 Verifies correct navigation menu functionality:
