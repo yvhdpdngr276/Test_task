@@ -1,12 +1,12 @@
-# 🤖 BotsCrew Website Testing Suite
+# BotsCrew Website Testing Suite
 
 Automated end-to-end tests for the [BotsCrew](https://botscrew.com/) website using Playwright.
 
-## 📋 Description
+## Description
 
 This repository contains a comprehensive suite of automated tests for the BotsCrew website. The tests cover main website components including navigation, interactive chatbot, and UI elements.
 
-## 🎯 What's Tested
+## What's Tested
 
 ### 1. Navigation Bar
 **Visible Links** - Direct links in the navigation menu:
@@ -36,7 +36,7 @@ This repository contains a comprehensive suite of automated tests for the BotsCr
 - **JavaScript** - Programming language
 - **Node.js** - Runtime environment
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
